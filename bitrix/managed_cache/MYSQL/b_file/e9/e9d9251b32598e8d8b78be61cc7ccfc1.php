@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001648632406';
+$dateexpire = '001648636006';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:1040;a:14:{s:2:"ID";s:4:"1040";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-03-15 10:54:27.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"35";s:5:"WIDTH";s:2:"25";s:9:"FILE_SIZE";s:4:"2994";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/d3a";s:9:"FILE_NAME";s:36:"vrq7gre5tkg3b5avdqwp630s0ot68olj.png";s:13:"ORIGINAL_NAME";s:16:"vafel-stakan.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"0a1e0e597f6e1d570b04dee7120e5c46";s:4:"~src";b:0;}i:1041;a:14:{s:2:"ID";s:4:"1041";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-03-15 10:54:44.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"35";s:5:"WIDTH";s:2:"25";s:9:"FILE_SIZE";s:4:"2747";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/a89";s:9:"FILE_NAME";s:36:"1mgqrxdbw0w6eer2rr7in4ujfv4dffhs.png";s:13:"ORIGINAL_NAME";s:14:"family-ice.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"51482643663683e4a7f130560717fa21";s:4:"~src";b:0;}}}';
+return true;
+?>
